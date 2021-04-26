@@ -24,7 +24,7 @@ namespace _1912901054ıodev
            
 
             Console.WriteLine("https://www.ahaber.com.tr/rss/teknoloji.xml");
-            Console.WriteLine("uyarı yeni haber {pubdate}", DateTime.Now);
+            
             Console.ReadLine();
             
             timer1.Stop();
